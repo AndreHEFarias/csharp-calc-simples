@@ -10,7 +10,7 @@ namespace TesteGit
             double n1= double.Parse(Console.ReadLine());
             Console.Write("Digite o segundo numero: ");
             double n2= double.Parse(Console.ReadLine());
-            Console.Write("Digite o simbolo da operação:");
+            Console.Write("Digite o simbolo da operação: ");
             string op = Console.ReadLine();
 
             double r;

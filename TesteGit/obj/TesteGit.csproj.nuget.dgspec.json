@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre.farias\\source\\repos\\TesteGit\\TesteGit\\TesteGit.csproj": {}
+    "C:\\Users\\andre.farias\\Documents\\estudos-C#\\TesteGit\\TesteGit\\TesteGit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre.farias\\source\\repos\\TesteGit\\TesteGit\\TesteGit.csproj": {
+    "C:\\Users\\andre.farias\\Documents\\estudos-C#\\TesteGit\\TesteGit\\TesteGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre.farias\\source\\repos\\TesteGit\\TesteGit\\TesteGit.csproj",
+        "projectUniqueName": "C:\\Users\\andre.farias\\Documents\\estudos-C#\\TesteGit\\TesteGit\\TesteGit.csproj",
         "projectName": "TesteGit",
-        "projectPath": "C:\\Users\\andre.farias\\source\\repos\\TesteGit\\TesteGit\\TesteGit.csproj",
+        "projectPath": "C:\\Users\\andre.farias\\Documents\\estudos-C#\\TesteGit\\TesteGit\\TesteGit.csproj",
         "packagesPath": "C:\\Users\\andre.farias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre.farias\\source\\repos\\TesteGit\\TesteGit\\obj\\",
+        "outputPath": "C:\\Users\\andre.farias\\Documents\\estudos-C#\\TesteGit\\TesteGit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre.farias\\AppData\\Roaming\\NuGet\\NuGet.Config",
