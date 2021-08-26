@@ -12,3 +12,17 @@ C:\Users\andre.farias\source\repos\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\Tes
 C:\Users\andre.farias\source\repos\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.dll
 C:\Users\andre.farias\source\repos\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.pdb
 C:\Users\andre.farias\source\repos\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.genruntimeconfig.cache
+C:\Users\andre.farias\Documents\estudos-C#\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.exe
+C:\Users\andre.farias\Documents\estudos-C#\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.deps.json
+C:\Users\andre.farias\Documents\estudos-C#\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.runtimeconfig.json
+C:\Users\andre.farias\Documents\estudos-C#\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.runtimeconfig.dev.json
+C:\Users\andre.farias\Documents\estudos-C#\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.dll
+C:\Users\andre.farias\Documents\estudos-C#\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.pdb
+C:\Users\andre.farias\Documents\estudos-C#\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.csproj.AssemblyReference.cache
+C:\Users\andre.farias\Documents\estudos-C#\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farias\Documents\estudos-C#\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.AssemblyInfoInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.AssemblyInfo.cs
+C:\Users\andre.farias\Documents\estudos-C#\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.csproj.CoreCompileInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.dll
+C:\Users\andre.farias\Documents\estudos-C#\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.pdb
+C:\Users\andre.farias\Documents\estudos-C#\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.genruntimeconfig.cache

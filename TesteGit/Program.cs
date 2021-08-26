@@ -33,6 +33,10 @@ namespace TesteGit
                     r = n1 * n2;
                     Console.WriteLine(r);
                     break;
+                case "%":
+                    r = n1 % n2;
+                    Console.WriteLine(r);
+                    break;
 
 
 
